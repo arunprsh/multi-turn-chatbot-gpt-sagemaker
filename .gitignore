@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Arrow and binary files 
+*.arrow
+*.bin
+
 # C extensions
 *.so
 
